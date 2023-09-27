@@ -8,7 +8,7 @@ public class PA2 {
     private int[] departmentsInFaculties;
     private String[] facilities;
 
-    // This is the first constructor which is public
+    // This is the first constructor
     public PA2() {
         this.name = "";
         this.yearOfEstablishment = 0;
